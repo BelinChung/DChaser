@@ -9,7 +9,15 @@ DChaser - A Business theme for WordPress
 
 DChaser 一个简约大气的企业（工作室）主题，它无处不在的渗透着我们追逐梦想的路上，虽不奢华，但也绝不平庸！
 
+[Preview DChaser, for WordPress →](http://dchaser.sinaapp.com)
+
 ## Wiki
+
+*  [Dream Chaser 详细简介](http://dearb.me/archive/2013-12-21/about-wordpress-theme-dchaser/)
+*  [DChaser 主题导航菜单设置](http://dearb.me/archive/2013-12-21/setting-main-menu-on-dchaser/)
+*  [DChaser 主题首页图片轮播设置](http://dearb.me/archive/2013-12-21/setting-slide-bannner-on-dchaser/)
+*  [DChaser 主题“核心服务”模块设置](http://dearb.me/archive/2013-12-21/setting-main-server-on-dchaser/)
+*  [DChaser 主题小工具“微博秀”设置](http://dearb.me/archive/2013-12-21/setting-weibo-show-on-dchaser/)
 
 ## Feature
 
@@ -24,7 +32,7 @@ DChaser 一个简约大气的企业（工作室）主题，它无处不在的渗
 
 ## Usage
 
-*  Github项目页右侧 ``Download ZIP`` 下载最新主题源码
+*  下载最新主题源码 [Download](https://github.com/BelinChung/DChaser/archive/master.zip)
 *  将ZIP 主题包解压到网站 ``\wordpress\wp-content\themes\`` 目录下或直接后台上传ZIP主题包
 *  进入 ``仪表盘->外观->主题`` 启用DChaser
 *  进入 ``仪表盘->外观->DChaser主题设置`` 设置DChaser
