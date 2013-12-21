@@ -15,7 +15,7 @@ DChaser 一个简约大气的企业（工作室）主题，它无处不在的渗
 
 *  [Dream Chaser 详细简介](http://dearb.me/archive/2013-12-21/about-wordpress-theme-dchaser/)
 *  [DChaser 主题导航菜单设置](http://dearb.me/archive/2013-12-21/setting-main-menu-on-dchaser/)
-*  [DChaser 主题首页图片轮播设置](http://dearb.me/archive/2013-12-21/setting-slide-bannner-on-dchaser/)
+*  [DChaser 主题首页图片轮播设置](http://dearb.me/archive/2013-12-21/setting-slide-banner-on-dchaser/)
 *  [DChaser 主题“核心服务”模块设置](http://dearb.me/archive/2013-12-21/setting-main-server-on-dchaser/)
 *  [DChaser 主题小工具“微博秀”设置](http://dearb.me/archive/2013-12-21/setting-weibo-show-on-dchaser/)
 
