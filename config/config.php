@@ -39,7 +39,7 @@ return array(
     ),
     //目前只会针对前台加载，后台不加载
     'css'=>array(
-        'style.min.css'
+        'style.css'
         ),
     'js'=>array(
         'static/js/jquery-1.7.2.min.js',
