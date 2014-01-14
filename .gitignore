@@ -22,5 +22,6 @@ Icon
 .Trashes
 
 style.source.css
+style.source.min.css
 static/js/custom.js
 static/js/jquery.plug.js

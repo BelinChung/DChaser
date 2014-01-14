@@ -42,6 +42,10 @@ DChaser 一个简约大气的企业（工作室）主题，它无处不在的渗
 *  E-Mail: i#dearb.me
 *  QQ 群 : 121235751
 
+## Donate
+
+[请我喝杯咖啡吧！](http://me.alipay.com/belin)
+
 ## Preview
 
 ### 首页(企业版)

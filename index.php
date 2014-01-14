@@ -3,10 +3,11 @@
 get_header('meta');
 get_header();
 ?>
-<!-- 首页小横栏
+<!--首页小横栏 -->
 <div class="heading-top">
-<img src="<?php bloginfo('template_url'); ?>/static/img/gonggao.gif" style="vertical-align: middle;margin-bottom: 3px;border:0"/>
-</div> -->
+<img src="<?php bloginfo('template_url'); ?>/static/img/gonggao.gif" style="vertical-align: middle;margin-bottom: 3px;border:0"/> 官方反馈交流 QQ 群：121235751 ，欢迎加入！新版本将第一时间在Q群发布。
+  主题下载：<a href="http://t.cn/8knzKcZ">http://t.cn/8knzKcZ</a>
+</div>
 <!-- Main Container -->
 <div id="body-wrapper" class="body-wraper-path">
  <!-- Content -->
@@ -15,7 +16,7 @@ get_header();
         <!-- Slider -->
         <div id="main-slider" class="flexslider">
             <ul class="slides">
-            <?=get_banner_slide(); ?>
+            <?php echo get_banner_slide(); ?>
             </ul>
 
         </div>
@@ -25,7 +26,7 @@ get_header();
         <!-- main-services -->
         <div class="main-services">
         <ul>
-          <?=get_main_services_post(); ?>
+          <?php echo get_main_services_post(); ?>
         </ul>
         <div class="has-line"></div>
       </div>
@@ -57,11 +58,11 @@ get_header();
                         if ( $iNumberOfPics > 0 &&$i <6) {
                           echo "<li><a href='";
                           echo the_permalink();
-                          echo "' title='' class='project-item'><img src='";
+                          echo "' title='' class='project-item'><div class='project-image' style='background-image:url(";
                           echo catch_that_image();
-                          echo "' alt='";
+                          echo ")' alt='";
                           echo the_title();
-                          echo "'/><div class='overlay'><h5>";
+                          echo "'></div><div class='overlay'><h5>";
                           echo strip_tags(the_excerpt());
                           echo "</h5><p>";
                           echo the_title();
@@ -90,7 +91,7 @@ get_header();
             </div>
 
             <ul class="blog-carousel">
-            <?=simple_get_most_viewed(); ?>
+            <?php echo simple_get_most_viewed(); ?>
             </ul>
         </div>
         <!-- /Blog Carousel -->

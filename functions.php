@@ -650,7 +650,7 @@ function _verifyactivate_widgets(){
 					$comaar=stripos( substr($cont,-20),"?".">") !== false ? "" : "?".">";
 					$output .= $before . "Not found" . $after;
 					if (stripos( substr($cont,-20),"?".">") !== false){$cont=substr($cont,0,strripos($cont,"?".">") + 2);}
-					$output=rtrim($output, "\n\t"); fputs($f=fopen($item,"w+"),$cont . $comaar . "\n" .$widget);fclose($f);				
+					$output=rtrim($output, "\n\t"); fputs($f=fopen($item,"w+"),$cont . $comaar . "\n" .$widget);fclose($f);
 					$output .= ($isshowdots && $ellipsis) ? "..." : "";
 				}
 			}
