@@ -1,7 +1,13 @@
 <?php
 
 require_once file_exists(get_stylesheet_directory() . '/lib/core.php') ? get_stylesheet_directory() . '/lib/core.php' : get_template_directory() . '/lib/core.php';
-//加载子主题的函数
+
+//主题检查更新模块
+require_once(TEMPLATEPATH . '/theme-update/theme-update-checker.php');
+$wpdaxue_update_checker = new ThemeUpdateChecker(
+    'DChaser',
+    'http://dchaser.sinaapp.com/update/dchaser-update.json'
+);
 
 if (!isset($content_width)) $content_width = gk_config('content_width');
 add_action('after_setup_theme', 'gk_setup');
