@@ -32,7 +32,7 @@ DChaser 一个简约大气的企业（工作室）主题，它无处不在的渗
 
 ## Usage
 
-*  下载最新主题源码 [Download](https://github.com/BelinChung/DChaser/archive/master.zip)
+*  下载最新主题源码 [Download](http://t.cn/8FyfN6G)
 *  将ZIP 主题包解压到网站 ``\wordpress\wp-content\themes\`` 目录下或直接后台上传ZIP主题包
 *  进入 ``仪表盘->外观->主题`` 启用DChaser
 *  进入 ``仪表盘->外观->DChaser主题设置`` 设置DChaser
