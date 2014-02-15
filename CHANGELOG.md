@@ -1,3 +1,10 @@
+## 1.3 / Sat Feb 15 2014
+
+> functions.php 感染木马，目前已删除，感谢@landu 提醒
+
+* 优化精简了style.css
+* 调整theme-update.php文件的位置
+
 ## 1.2 / Wed Jan 15 2014
 
 > 新增主题检查更新功能
