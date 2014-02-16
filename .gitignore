@@ -20,8 +20,3 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-
-style.source.css
-style.source.min.css
-static/js/custom.js
-static/js/jquery.plug.js
